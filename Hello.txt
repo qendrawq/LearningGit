@@ -8,3 +8,5 @@ devtext2
 
 
 old era is waiting
+new era1
+new era2
